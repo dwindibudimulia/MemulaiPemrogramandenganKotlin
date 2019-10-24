@@ -1,0 +1,34 @@
+# Project exclude paths
+/.gradle/
+/Control Flow/Latihan/Latihan/build/
+/Control Flow/Latihan/Latihan/build/classes/java/main/
+/Coroutines/latihan/Latihan/build/
+/Coroutines/latihan/Latihan/build/classes/java/main/
+/Data Class dan Collections/Data Class/Comparing data class/build/
+/Data Class dan Collections/Data Class/Comparing data class/build/classes/java/main/
+/Data Class dan Collections/Data Class/Copying data class objects/build/
+/Data Class dan Collections/Data Class/Copying data class objects/build/classes/java/main/
+/Data Class dan Collections/Data Class/Different data class with class/build/
+/Data Class dan Collections/Data Class/Different data class with class/build/classes/java/main/
+/Data Class dan Collections/Latihan/latihan/build/
+/Data Class dan Collections/Latihan/latihan/build/classes/java/main/
+/Functional/Latihan/Latihan/build/
+/Functional/Latihan/Latihan/build/classes/java/main/
+/Generics/Latihan/Latihan/build/
+/Generics/Latihan/Latihan/build/classes/java/main/
+/Kotlin Fundamental/Data Type/Escaped String/build/
+/Kotlin Fundamental/Data Type/Escaped String/build/classes/java/main/
+/Kotlin Fundamental/Function/Function Initilization/build/
+/Kotlin Fundamental/Function/Function Initilization/build/classes/java/main/
+/Kotlin Fundamental/Latihan/Latihan/build/
+/Kotlin Fundamental/Latihan/Latihan/build/classes/java/main/
+/Kotlin Fundamental/String Template/String Template/build/
+/Kotlin Fundamental/String Template/String Template/build/classes/java/main/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/classes/java/main/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/classes/java/main/
+/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/build/
+/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/build/classes/java/main/
+/Object-Oriented/Latihan/Latihan/build/
+/Object-Oriented/Latihan/Latihan/build/classes/java/main/
